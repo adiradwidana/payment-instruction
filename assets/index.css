@@ -1,0 +1,109 @@
+.header {
+    margin-top: 24px;
+}
+
+.header-logo {
+    width: 135px;
+    height: 40px;
+}
+
+.img-center {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.content {
+    margin-top: 64px;
+}
+
+.payment-text {
+    width: 296px;
+    height: 36px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #161616;
+}
+
+.payment-line {
+    margin-top: 24px;
+    width: 312px;
+    height: 1px;
+    border: solid 1px #e7e7e7;
+}
+
+.payment-instruction-header-text {
+    width: 296px;
+    height: 30px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    color: #161616;
+}
+
+.payment-instruction-list {
+    width: 280px;
+    height: 180px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.14;
+    letter-spacing: normal;
+    color: #161616;
+}
+
+.payment-instruction-verification {
+    width: 296px;
+    height: 72px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #161616;
+    margin-top: 36px;
+}
+
+.payment-button {
+    width: 944px;
+    height: 44px;
+    border-radius: 6px;
+    background-color: #24c300;
+
+}
+
+.payment-button-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.button-wrapper {
+    margin-top: 24px;
+}
+
+@media (max-width: 576px) {
+    .content {
+        margin: 24px;
+    }
+}
